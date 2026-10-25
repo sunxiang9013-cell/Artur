@@ -1,0 +1,13 @@
+<!doctype html><meta charset="utf-8"><title>SSD1306 128x32 Preview</title>
+<style>body{background:#111;color:#ddd;font:14px sans-serif;text-align:center;margin:24px}canvas{width:min(1024px,94vw);height:auto;image-rendering:pixelated;border:1px solid #555;background:#000}button,input{margin:10px;padding:6px}</style>
+<h2>SSD1306 128x32 Robot Core Preview</h2><canvas id="c" width="128" height="32"></canvas><br><button id="b">Pause</button><label>Speed <input id="s" type="range" min="30" max="300" value="100"></label><span id="f"></span>
+<script>
+const c=document.querySelector('#c'),x=c.getContext('2d'),b=document.querySelector('#b'),s=document.querySelector('#s'),f=document.querySelector('#f');let i=0,run=true,last=0;
+function frame(t){x.fillStyle='#000';x.fillRect(0,0,128,32);let phase=i%32, cx=64+Math.round(Math.sin(i*.13)*18), r=2+(phase<8?phase:phase<16?16-phase:0);let pts=[];
+for(let k=0;k<12;k++){let px=(k*23+i*1.7)%128, py=5+((k*11+i*.6)%22); if(phase>7&&phase<22){let a=k*.9+i*.08;px=cx+Math.cos(a)*(10+phase);py=16+Math.sin(a)*(5+phase*.25)}pts.push([Math.round(px),Math.round(py)])}
+x.fillStyle='#fff';pts.forEach(p=>x.fillRect(p[0],p[1],1,1));
+let rr=Math.max(2,r);for(let q=-rr;q<=rr;q++)for(let z=-rr;z<=rr;z++)if(Math.abs(q)+Math.abs(z)<=rr+1)x.fillRect(cx+q,16+z,1,1);
+if(phase>=16&&phase<26){let d=phase-16; x.fillRect(Math.max(0,cx-d*5),15,1,2);x.fillRect(Math.min(127,cx+d*5),15,1,2)}
+f.textContent='Frame '+String(i%32+1)+'/32';}
+function loop(t){if(run&&t-last>=+s.value){i++;last=t;frame(t)}requestAnimationFrame(loop)}frame(0);requestAnimationFrame(loop);b.onclick=()=>{run=!run;b.textContent=run?'Pause':'Play'};
+</script>

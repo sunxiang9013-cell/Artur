@@ -1,0 +1,338 @@
+[
+  {
+    "path": "3.7g舵机.stp",
+    "bytes": 1218154,
+    "sha256": "c06172d202206bc4fe047a34ba9a1e48b7ee5245351095d809e3ec839836a9e0",
+    "storage": "repository"
+  },
+  {
+    "path": "机器人.3dm",
+    "bytes": 116124001,
+    "sha256": "e3872b43de650ba29bbb7bea13e8b2cdfb2a8da6188279f546d593f657912d7c",
+    "storage": "release:backup-20261025/artur-large-files.zip"
+  },
+  {
+    "path": "机器人.eprj2",
+    "bytes": 2072576,
+    "sha256": "24d2b324d7004fc5bb5b28fa075942852e1635f49ad594efb55d057d5661350d",
+    "storage": "repository"
+  },
+  {
+    "path": "机器人2.epro2",
+    "bytes": 152187,
+    "sha256": "f128e44e36a27425d4304671c010fae6f20e83dfcfc85b38b47fdd2d096b0438",
+    "storage": "repository"
+  },
+  {
+    "path": "履带.3dm",
+    "bytes": 44323338,
+    "sha256": "5655bdcf9b100dc8d6fa4f437029abf7513f9b3e1a5eebbcd0358830c9621536",
+    "storage": "release:backup-20261025/artur-large-files.zip"
+  },
+  {
+    "path": "逆向建模.stp",
+    "bytes": 3008860,
+    "sha256": "673c4ed6529c39eb8b2b6d868a9da2bef96381553dc6049702b5cb665dbb69bb",
+    "storage": "repository"
+  },
+  {
+    "path": "屏幕动画.html",
+    "bytes": 1658,
+    "sha256": "9f65455e81c50fd8e2657865a137b0ac82aac1de147590955bb9ac844278ebde",
+    "storage": "repository"
+  },
+  {
+    "path": "arthur code.zip",
+    "bytes": 2016088,
+    "sha256": "f91d9fd5280a41930edbe480c12a16bfff0335f1ad01f6767c407aae723d6083",
+    "storage": "repository"
+  },
+  {
+    "path": "Arthur Robot - 117s - Extended Audio.mp4",
+    "bytes": 43922610,
+    "sha256": "11c741a760188cd30b5e80e6e8d3c228824c717e4ecb9e56b12389315289edf2",
+    "storage": "release:backup-20261025/artur-large-files.zip"
+  },
+  {
+    "path": "DS-S001-3.7克3d外形图.zip",
+    "bytes": 260869,
+    "sha256": "e40d3c303bb657386b232eeef69726ad9ba9067ef9438ba03afd3c0beb3a5fb1",
+    "storage": "repository"
+  },
+  {
+    "path": "ProPrj_机器人_2026-07-23.epro2",
+    "bytes": 472312,
+    "sha256": "cade2848ef1f5a3fd3d45568b49836b6f9f330e4d12e8939ee5e2eb3efd7dc4f",
+    "storage": "repository"
+  },
+  {
+    "path": "RobotAsm.step",
+    "bytes": 29728666,
+    "sha256": "62ba37a06cef7c38044eb27a9f0a3df0cec5de0cf26b8e4c2d67fb7250c33942",
+    "storage": "release:backup-20261025/artur-large-files.zip"
+  },
+  {
+    "path": "Arthur zz/01.jpg",
+    "bytes": 1820123,
+    "sha256": "324e71e4d486f23ebbc1a61aae7e684e4f467da6ba37665c8974e5118e21d6e4",
+    "storage": "repository"
+  },
+  {
+    "path": "Arthur zz/02.jpg",
+    "bytes": 1393463,
+    "sha256": "fbccbf81bb9736e51318d3117c2235d5560f2b48d73bbad8c768610be39fd6f5",
+    "storage": "repository"
+  },
+  {
+    "path": "Arthur zz/机器人.eprj2",
+    "bytes": 14667776,
+    "sha256": "00994e624a2e4e0f3998a99703ccb1144cda52d96ca1879a39af56394796f36d",
+    "storage": "repository"
+  },
+  {
+    "path": "Arthur zz/Arthur.eprj2",
+    "bytes": 13447168,
+    "sha256": "73d9ef5f5f6fd02ec267f1fbe827c088016fb8549c89ebda78150fb2b949194d",
+    "storage": "repository"
+  },
+  {
+    "path": "Arthur zz/机器人_backup/0d8c5ab3d8d84649acfb0433b0ce53c3/机器人_2026-09-07-12-49.zip",
+    "bytes": 1680368,
+    "sha256": "581e0e1fe6142e7274983131e8f1c2057349fc0ec938394cbd6cf115ecb62e7f",
+    "storage": "repository"
+  },
+  {
+    "path": "Arthur zz/机器人_backup/0d8c5ab3d8d84649acfb0433b0ce53c3/机器人_2026-09-07-17-49.zip",
+    "bytes": 1680455,
+    "sha256": "7fa46b6861c396e1ffb10ef3da6e4cac7ca376e054914fffe68ee94ad878e097",
+    "storage": "repository"
+  },
+  {
+    "path": "Arthur zz/机器人_backup/0d8c5ab3d8d84649acfb0433b0ce53c3/机器人_2026-09-07-21-25.zip",
+    "bytes": 1679432,
+    "sha256": "2a6a34c86fb689ce1dd76f2d07311ebc7e37d47b08ada405989c0c5dfb0768ff",
+    "storage": "repository"
+  },
+  {
+    "path": "Arthur zz/机器人_backup/0d8c5ab3d8d84649acfb0433b0ce53c3/机器人_2026-09-26-15-10.zip",
+    "bytes": 1690815,
+    "sha256": "31e0e27937a50bdab8230a0f1b227d17faf983f5e8afa30c25656ef78c29fb3a",
+    "storage": "repository"
+  },
+  {
+    "path": "IGS STEP/WALL-E COMBINED_IGS.IGS",
+    "bytes": 26353816,
+    "sha256": "c9972074b1f2c4996928b1404c94ee35c27ddd86fc1239e28cfcde1df89bd5d1",
+    "storage": "release:backup-20261025/artur-large-files.zip"
+  },
+  {
+    "path": "IGS STEP/WALL-E COMBINED_step.STEP",
+    "bytes": 11999166,
+    "sha256": "76602e933eb1f9304843a7165643f325cc5247c4537fb30b73312472c7b3f6f9",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/地盘轮.stl",
+    "bytes": 8949384,
+    "sha256": "13d35ada42bd5ee29ce7535d469ec278dad4644725b45b64b6d5731cb8598aad",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/身体.stl",
+    "bytes": 4330684,
+    "sha256": "5277cf57ed837711d850da379deb81a5909b573f64302c1255f5292553006d77",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/头.stl",
+    "bytes": 1576584,
+    "sha256": "4cb8886110a3a60a925be4fde8a30184df3bffd3c74656b7b1d8a9327154e90b",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/头盖.stl",
+    "bytes": 444184,
+    "sha256": "13f2fec4765862b651bab8e90cbc554324da9aef399585af9295f93ca1e11551",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/瓦力机器人手臂.3mf",
+    "bytes": 7912565,
+    "sha256": "5534a4ca5407e567f2fa666a2f7c09e2fbc8adbb4c828477fdaf8d33db5ec9c4",
+    "storage": "repository"
+  },
+  {
+    "path": "模型/wali手关节和掌.stl",
+    "bytes": 4545684,
+    "sha256": "b2ba9a991ef920f17476442e82f30deb66d78d3151138fa6f5568efa85acd5b0",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/系统架构图.png",
+    "bytes": 659283,
+    "sha256": "9930ca5de2a01f1c54fb0d6aa3ab962ae72d2e4a0b5c15c5e9bbb7e7111eb951",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/Hero主图.jpg",
+    "bytes": 731767,
+    "sha256": "4c853c2b022c6e75bdec79cae4da9406737bff22ec95a7ba7152f9325d662d76",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/pcb/3D_副板_2026-09-26.png",
+    "bytes": 455048,
+    "sha256": "6678121a407ebbffd6987c95cf10427ae0e20cef086fd30443e4d45f44dea007",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/pcb/3D_主控_2026-09-26.png",
+    "bytes": 461625,
+    "sha256": "f6bda5925fb5c5a60f9b1807f3b4963d7bd837024d859b5b971d3e5baa9b372b",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/pcb/副板原理图.jpg",
+    "bytes": 756901,
+    "sha256": "efb6b082b4bda5c933a7744114350d89e5cb6683de8ea17c593f884ce2022e39",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/pcb/主控原理图.jpg",
+    "bytes": 1152950,
+    "sha256": "c025a0d3bcc6388f22ca3194ae3e407b689242fdd0b9a4753b3ff923882a8312",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/pcb/PCB_副板_2026-09-26.png",
+    "bytes": 718250,
+    "sha256": "9ea7691f713b36253606f3c60dac481534daf401160747375add07b703ae8c98",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/pcb/PCB_主控_2026-09-26.png",
+    "bytes": 813888,
+    "sha256": "8a240156259624fb8acc88ec2c6f3624bc1f50ff80b529a33cdeae5d83533191",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/pcb/web_assets/3d_expansion_web.png",
+    "bytes": 731351,
+    "sha256": "f82e5e37ccb7ade272cf02da60d15b4c1b45a5966e26bbc7543331efa8e9a119",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/pcb/web_assets/3d_main_control_web.png",
+    "bytes": 701003,
+    "sha256": "198f9b3a1866f22667ad3d8b44257ddc298422c3805d2b793ad1a361a1c9354b",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/pcb/web_assets/pcb_expansion_web.png",
+    "bytes": 794023,
+    "sha256": "02a30766f4b3da38c0c361b354d7b46cf444fbb45390c39e22858c677debfb6d",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/pcb/web_assets/pcb_main_control_web.png",
+    "bytes": 893399,
+    "sha256": "7e3929e1fcd8f0edee0510b255eda80606fa84dc4ceefd5e97fb3375662508b5",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/pcb/web_assets/pcb_overview_web.png",
+    "bytes": 915314,
+    "sha256": "3b911a0337783a15fb25320a6dd81ab817c613b4dd5d944cc7347250fc627331",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/三维模型/ScreenShot_2026-09-26_153654_650.jpg",
+    "bytes": 112924,
+    "sha256": "86eda46d781ca09c5e8cb18df2b14ee3dd7b1c2e2a26116cafc0a93753c14ce6",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/三维模型/ScreenShot_2026-09-26_153729_169.jpg",
+    "bytes": 86180,
+    "sha256": "6453e0a6b27ba83b9367eb78cbc9cad940321d7e6e4ce557c4522282ea1e1dfd",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/三维模型/ScreenShot_2026-09-26_153801_141.jpg",
+    "bytes": 89521,
+    "sha256": "1ca453e527e23d004f8894ab69dc1ffcadacf9794ed9e527a93c0a6a62d6e38b",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/三维模型/ScreenShot_2026-09-26_153822_062.jpg",
+    "bytes": 123519,
+    "sha256": "eed56e5d52584fc81515c11098ec074f3c64cb9df58b1557132e1905e0f3c5ea",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/过程图/微信图片_20260926163157_1023_7.jpg",
+    "bytes": 626866,
+    "sha256": "02422592c44a0bb59ff94db55ce5e106d277cd3ed4cf72e375587a5428dafe82",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/过程图/微信图片_20260926163158_1024_7.jpg",
+    "bytes": 589133,
+    "sha256": "1207d01194e4bbebdaedd8ec017e588569e28156e048e59899f3d4dfa19738cf",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/过程图/微信图片_20260926163159_1025_7.jpg",
+    "bytes": 604999,
+    "sha256": "3da7ec9f79c333e673f7bf3250e201dd6e0e04edc6776253e7e4882a8c4bdf9f",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/过程图/微信图片_20260926163201_1027_7.jpg",
+    "bytes": 680910,
+    "sha256": "2e69306e2dce4cf7762e1add524e62bd6f8fffd145717608034c94519ae093f1",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/过程图/微信图片_20260926163202_1028_7.jpg",
+    "bytes": 772543,
+    "sha256": "08fc035e13189073caa5bf58bd414e03ef7bb1db6777b4b4d2e901ff35a6c67e",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/过程图/微信图片_20260926163203_1029_7.jpg",
+    "bytes": 615394,
+    "sha256": "02d04af3e3aa6f3a2cbd00e97362963ac5eeb09b5d2a745bfa086c4a24a2dcd9",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/过程图/微信图片_20260926163203_1030_7.jpg",
+    "bytes": 648200,
+    "sha256": "69e8ca1cf9f754941977991d947f785a2df93a5c8c2b422bc5e8aee94eef07c7",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/过程图/微信图片_20260926163204_1031_7.jpg",
+    "bytes": 731807,
+    "sha256": "0dead4336dc65bbde1020b058cd02a1d1fb6fbf82bbcdf062f5bb06dab7cb6aa",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/过程图/微信图片_20260926163205_1032_7.jpg",
+    "bytes": 245855,
+    "sha256": "4e10398afa7bdbca552fbdccf4cf88dc196641df7135f7634b45040bed634471",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/过程图/微信图片_20260926163206_1033_7.jpg",
+    "bytes": 712391,
+    "sha256": "761945fc82853ff0f2ddc773d7865df9d9eb1572e09e8cb9973bba9d9a6f5633",
+    "storage": "repository"
+  },
+  {
+    "path": "网站素材/过程图/微信图片_20260926163222_1034_7.jpg",
+    "bytes": 771226,
+    "sha256": "1a60c86b991b02bd79883997f49599f7b64eec757be96968bbd0154bc454dbf0",
+    "storage": "repository"
+  }
+]
